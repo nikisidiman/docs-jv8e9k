@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-og19h3.indocuan-pro.cfd/sitemap.xml
